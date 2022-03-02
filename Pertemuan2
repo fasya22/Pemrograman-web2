@@ -1,0 +1,5 @@
+#!/usr/bin/php
+<?php
+echo "PHP Shell Script\n";
+echo "Nur Halisah Fasya\n20090148\n4A\n";
+?>
